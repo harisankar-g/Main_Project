@@ -1,0 +1,18 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "\"This Project is based Ecommerce Website for Sports\"",
+  "license": "ISC",
+  "author": "\"Created Mr.HARISANKAR.G\"",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.6.0",
+    "nodemon": "^3.1.14"
+  }
+}
